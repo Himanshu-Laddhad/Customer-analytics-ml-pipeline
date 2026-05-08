@@ -1,0 +1,1 @@
+-- Churn label generation query

@@ -1,0 +1,1 @@
+-- RFM (Recency, Frequency, Monetary) feature query
