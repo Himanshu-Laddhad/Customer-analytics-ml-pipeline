@@ -1,0 +1,57 @@
+# ── Raw data (large CSVs — download from Kaggle) ──────────────────────────
+data/
+
+# ── Python ────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ── Virtual environment ───────────────────────────────────────────────────
+.venv/
+venv/
+env/
+
+# ── Jupyter ───────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── Optuna ────────────────────────────────────────────────────────────────
+optuna.db
+*.db
+
+# ── Streamlit temp ────────────────────────────────────────────────────────
+streamlit_out.txt
+streamlit_err.txt
+.streamlit/
+
+# ── Environment / secrets ─────────────────────────────────────────────────
+.env
+.env.*
+*.env
+
+# ── OS ────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ── Editors ───────────────────────────────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ── Logs & temp ───────────────────────────────────────────────────────────
+*.log
+*.tmp
+*.bak
+
+# ── Large outputs (exceed GitHub 100MB hard limit) ────────────────────────
+outputs/rf_model.pkl
+outputs/stacking_model.pkl
+outputs/kkbox_features.parquet
+
+# ── Large outputs (exceed GitHub 50MB recommended limit) ─────────────────
+outputs/train.parquet
+outputs/log_features.parquet
+outputs/transaction_features.parquet

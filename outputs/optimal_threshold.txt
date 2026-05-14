@@ -1,0 +1,7 @@
+optimal_threshold=0.45
+business_cost=259830
+fn_cost_per_unit=120
+fp_cost_per_unit=15
+f1=0.7072
+precision=0.5918
+recall=0.8786

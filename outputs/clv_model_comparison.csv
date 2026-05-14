@@ -1,0 +1,5 @@
+Model,RMSE,MAE,R2
+LightGBM,47.81,27.3,0.9923
+Random Forest,52.72,21.12,0.9906
+XGBoost,56.86,39.32,0.9891
+Ridge,403.59,312.6,0.4488

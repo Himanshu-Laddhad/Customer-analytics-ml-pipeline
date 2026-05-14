@@ -1,0 +1,5 @@
+segment_label,avg_daily_secs,completion_rate,skip_rate,active_days,days_since_last_log,n_customers,churn_rate_pct
+Power Users,10529.6336,0.7711,0.1407,557.2108,3.3024,274255,9.53
+Casual Listeners,5376.6698,0.7387,0.1571,179.3581,24.0292,421858,9.63
+At-Risk,2918.6036,0.3742,0.4398,139.4935,66.8648,157106,8.92
+Dormant,18.2383,0.0041,0.0018,0.0822,815.4345,117741,5.57

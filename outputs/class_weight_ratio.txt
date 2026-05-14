@@ -1,0 +1,4 @@
+class_weight_ratio=10.118287
+n_majority=883630
+n_minority=87330
+overall_churn_rate=0.089942
